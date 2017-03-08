@@ -1,0 +1,37 @@
+{
+  "name": "sevon",
+  "version": "1.0.1",
+  "description": "Simple application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "async": "^2.1.5",
+    "body-parser": "*",
+    "cors": "^2.8.1",
+    "express": "4.x.x",
+    "express-session": "^1.15.1",
+    "express-sessions": "^1.0.6",
+    "file-system": "*",
+    "got": "^6.7.1",
+    "json-concat": "0.0.1",
+    "jsonwebtoken": "^7.1.9",
+    "jwt-simple": "^0.5.1",
+    "mongo-join": "^1.0.0",
+    "mongodb": "^2.2.24",
+    "mongoose": "*",
+    "morgan": "^1.7.0",
+    "nodemailer": "*",
+    "nstore": "*",
+    "request": "^2.79.0",
+    "request-promise": "^4.1.1",
+    "shape-array": "^1.0.11",
+    "socket.io": "*",
+    "string": "^3.3.3"
+  },
+  "engines": {
+    "node": ">=0.10"
+  },
+  "license": "ISC"
+}
